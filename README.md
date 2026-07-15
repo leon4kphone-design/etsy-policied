@@ -1,1 +1,1 @@
-# etsy-policied
+# etsy-policies
